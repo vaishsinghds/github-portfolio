@@ -5,14 +5,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn**: [linkedin.com/vaishalisingh94](https://www.linkedin.com/in/vaishalisingh94/)
 
 ## Achievements
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+- Recipient of Outstanding Master of Science - Mathematics field.
+- Successfully defended masters thesis in Data Science - Data analysis, modeling, and forecasting of credit card frauds/defaults using ensemble and neural network models.
+- Recipient of scholarship by Department of Science, India.
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/vaishsinghds/github-portfolio/main/are-stocks-overpriced-stocks-overpriced.jpg.webp"> **[Stocks Anomaly Detection](https://github.com/vaishsinghds/Stocks-Anomaly-Detection)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
