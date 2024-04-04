@@ -13,7 +13,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/vaishsinghds/github-portfolio/main/are-stocks-overpriced-stocks-overpriced.jpg.webp"> **[Stocks Anomaly Detection](https://github.com/vaishsinghds/Stocks-Anomaly-Detection)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+This project implements an anomaly detection model for detecting outliers in stock price movements or trading volumes. The historical stock price data is fetched from Yahoo. The model uses Isolation Forest algorithm for anomaly detection. 
 
 #
 
@@ -23,9 +23,9 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://github.com/vaishsinghds/github-portfolio/blob/main/market-sentiment.jpg"> **[Financial Sentiment Analysis](https://github.com/vaishsinghds/Financial-Sentiment-Analysis)**
  
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+This project fetches headlines related to Apple's stocks and finances from Yahoo Finance and performs sentiment analysis using NLTK's VADER tool. It helps in understanding the sentiment conveyed by the headlines, whether positive, negative, or neutral.
 
 #
 
