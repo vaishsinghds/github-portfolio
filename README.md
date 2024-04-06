@@ -17,9 +17,9 @@ This project implements an anomaly detection model for detecting outliers in sto
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/vaishsinghds/Grocery-recommender-system/blob/main/download.jpg"> **[Grocery Recommender System](https://github.com/vaishsinghds/Grocery-recommender-system)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+The objective of this project is to develop a grocery item recommendation system using the Apriori algorithm to analyze transactional data. The system aims to identify frequent itemsets and association rules to recommend complementary grocery items to customers, enhancing their shopping experience and potentially increasing sales.
 
 #
 
@@ -29,9 +29,10 @@ This project fetches headlines related to Apple's stocks and finances from Yahoo
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
+<img align="left" width="250" height="150" src="https://github.com/vaishsinghds/Movies-recommendation-engine/blob/main/istockphoto-1494642262-612x612.jpg"> **[Movie Recommendation Engine](https://github.com/vaishsinghds/Movies-recommendation-engine)**
 
-In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
+The objective of this project is to develop a movie recommendation engine using collaborative filtering techniques to provide personalized movie suggestions based on user ratings. The objective is to enhance the movie-watching experience by offering tailored recommendations that match individual preferences, ultimately increasing user satisfaction and engagement.
+
 
 #
 
