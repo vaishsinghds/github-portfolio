@@ -11,15 +11,17 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/vaishsinghds/github-portfolio/main/are-stocks-overpriced-stocks-overpriced.jpg.webp"> **[Stocks Anomaly Detection](https://github.com/vaishsinghds/Stocks-Anomaly-Detection)**
 
-This project implements an anomaly detection model for detecting outliers in stock price movements or trading volumes. The historical stock price data is fetched from Yahoo. The model uses Isolation Forest algorithm for anomaly detection. 
-
-#
 
 <img align="left" width="250" height="150" src="https://github.com/vaishsinghds/Grocery-recommender-system/blob/main/download.jpg"> **[Grocery Recommender System](https://github.com/vaishsinghds/Grocery-recommender-system)**
 
 The objective of this project is to develop a grocery item recommendation system using the Apriori algorithm to analyze transactional data. The system aims to identify frequent itemsets and association rules to recommend complementary grocery items to customers, enhancing their shopping experience and potentially increasing sales.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/vaishsinghds/Medical-Stroke-Prediction/blob/main/digital-doctor-healthcare-science-medical-260nw-2267168307.jpg"> **[Medical Stroke Prediction](https://github.com/vaishsinghds/Medical-Stroke-Prediction)** 
+
+This project is about analyzing and visualization of a healthcare dataset. The dataset consists of information about patients, including their demographic details, medical conditions, treatments, and billing information.
 
 #
 
@@ -42,9 +44,9 @@ This project is about analyzing and visualization of a healthcare dataset. The d
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/vaishsinghds/Medical-Stroke-Prediction/blob/main/digital-doctor-healthcare-science-medical-260nw-2267168307.jpg"> **[Medical Stroke Prediction Model](https://github.com/vaishsinghds/Medical-Stroke-Prediction)** 
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/vaishsinghds/github-portfolio/main/are-stocks-overpriced-stocks-overpriced.jpg.webp"> **[Stocks Anomaly Detection](https://github.com/vaishsinghds/Stocks-Anomaly-Detection)**
 
-This project is about analyzing and visualization of a healthcare dataset. The dataset consists of information about patients, including their demographic details, medical conditions, treatments, and billing information.
+This project implements an anomaly detection model for detecting outliers in stock price movements or trading volumes. The historical stock price data is fetched from Yahoo. The model uses Isolation Forest algorithm for anomaly detection. 
 
 <br />
 
