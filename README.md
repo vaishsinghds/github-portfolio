@@ -21,7 +21,7 @@ The objective of this project is to develop a grocery item recommendation system
 
 <img align="left" width="250" height="150" src="https://github.com/vaishsinghds/Medical-Stroke-Prediction/blob/main/digital-doctor-healthcare-science-medical-260nw-2267168307.jpg"> **[Medical Stroke Prediction](https://github.com/vaishsinghds/Medical-Stroke-Prediction)** 
 
-This project is about analyzing and visualization of a healthcare dataset. The dataset consists of information about patients, including their demographic details, medical conditions, treatments, and billing information.
+This project aims to build a machine learning model for stroke prediction using healthcare data. The model will be trained on various features such as age, hypertension, heart disease, etc., to predict the likelihood of a person having a stroke.
 
 #
 
