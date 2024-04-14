@@ -1,5 +1,5 @@
 # Data Science Portfolio - Vaishali Singh
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my achievements and skills. It is updated on the regular basis.
+Welcome to my GitHub portfolio, showcasing a comprehensive collection of my Data Science and Data Analysis projects developed for academic, self-learning, and recreational purposes. Within this portfolio, you'll find a presentation of my achievements and skill sets. Regular updates ensure its relevance and completeness. Thank you for exploring my work.
 
 - **Email**: [vaishsingh94@gmail.com](vaishsingh94@gmail.com)
 - **LinkedIn**: [linkedin.com/vaishalisingh94](https://www.linkedin.com/in/vaishalisingh94/)
