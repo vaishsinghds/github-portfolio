@@ -25,7 +25,7 @@ This project aims to build a machine learning model for stroke prediction using 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/vaishsinghds/github-portfolio/blob/main/market-sentiment.jpg"> **[Financial Sentiment Analysis](https://github.com/vaishsinghds/Financial-Sentiment-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/vaishsinghds/Financial-Sentiment-Analysis/blob/main/market-sentiment%20(1).jpg"> **[Financial Sentiment Analysis](https://github.com/vaishsinghds/Financial-Sentiment-Analysis)**
  
 This project fetches headlines related to Apple's stocks and finances from Yahoo Finance and performs sentiment analysis using NLTK's VADER tool. It helps in understanding the sentiment conveyed by the headlines, whether positive, negative, or neutral.
 
@@ -44,7 +44,7 @@ This project is about analyzing and visualization of a healthcare dataset. The d
 
 #
 
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/vaishsinghds/github-portfolio/main/are-stocks-overpriced-stocks-overpriced.jpg.webp"> **[Stocks Anomaly Detection](https://github.com/vaishsinghds/Stocks-Anomaly-Detection)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/vaishsinghds/Stocks-Anomaly-Detection/main/are-stocks-overpriced-stocks-overpriced.jpg%20(1).webp"> **[Stocks Anomaly Detection](https://github.com/vaishsinghds/Stocks-Anomaly-Detection)**
 
 This project implements an anomaly detection model for detecting outliers in stock price movements or trading volumes. The historical stock price data is fetched from Yahoo. The model uses Isolation Forest algorithm for anomaly detection. 
 
