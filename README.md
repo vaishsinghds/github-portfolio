@@ -33,7 +33,7 @@ This project fetches headlines related to Apple's stocks and finances from Yahoo
 
 <img align="left" width="250" height="150" src="https://github.com/vaishsinghds/Movies-recommendation-engine/blob/main/istockphoto-1494642262-612x612.jpg"> **[Movie Recommendation Engine](https://github.com/vaishsinghds/Movies-recommendation-engine)**
 
-The objective of this project is to develop a movie recommendation engine using collaborative filtering techniques to provide personalized movie suggestions based on user ratings. The objective is to enhance the movie-watching experience by offering tailored recommendations that match individual preferences, ultimately increasing user satisfaction and engagement.
+The objective of this project is to develop a movie recommendation engine using collaborative filtering techniques to provide personalized movie suggestions based on user ratings. The objective is to enhance the movie-watching experience by offering tailored recommendations that match individual preferences, increasing user satisfaction and engagement.
 
 
 #
